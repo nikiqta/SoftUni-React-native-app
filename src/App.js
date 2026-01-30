@@ -7,7 +7,7 @@ export default function App() {
     <SafeAreaProvider>
       <SafeAreaView>
         <View style={styles.container}>
-          <Text>Restaurant app!</Text>
+          <Text>Just app!</Text>
           <StatusBar style="auto" />
         </View>
       </SafeAreaView>
